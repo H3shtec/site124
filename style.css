@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    border: 5px solid  blue;
+    border-radius: 9px;
+    padding: 10px;
+}
+header a{
+    text-decoration: none;
+    color: white;
+    background-color: darkblue;
+    border: 2px solid darkblue;
+    border-radius: 6px;
+}
+main h1{
+    color: orange;
+    font-family: sans-serif;
+    text-align: center;
+    border: 3px solid purple;
+    border-radius: 50px;
+    font-size: large;
+    
+}
+footer p{
+    padding: 5px;
+    border: 3px solid lightgrey;
+}
+nav a{
+    text-decoration: none;
+    border: 3px solid darkblue;
+    background-color: darkblue;
+    color: white;
+    border-radius: 13px;
+    padding: 3px;
+    margin: 10px;
+}
+.price {
+    background-color: white;
+    color: darkblue;
+    border: 3px solid darkblue;
+    border-radius: 13px;
+    margin: 10px;
+    padding: 3px;
+}
+nav{
+    padding: 10px;
+}
+main h2{
+    color: blue;
+    font-size: 30px;
+}
+.podarki{
+    border: 2px solid lightblue;
+    border-radius: 5px;
+}
+.contakt{
+    text-decoration: none;
+    border: 5px solid darkblue;
+    padding: 10px;
+}
+.navverh{
+    text-decoration: none;
+    border: 5px solid darkblue;
+    padding: 10px;
+}
